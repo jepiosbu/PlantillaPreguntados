@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "96802679549",
+    "firebase_url": "https://plantillamillonario-default-rtdb.firebaseio.com",
+    "project_id": "plantillamillonario",
+    "storage_bucket": "plantillamillonario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96802679549:android:711ab686d9406fd39d6c94",
+        "android_client_info": {
+          "package_name": "com.example.plantillamillonario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPsV8_Cewo4qr4flYND01cg_j9fowiw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96802679549:android:390ae249e032ceca9d6c94",
+        "android_client_info": {
+          "package_name": "com.example.preguntados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPsV8_Cewo4qr4flYND01cg_j9fowiw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
